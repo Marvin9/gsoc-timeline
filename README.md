@@ -2,7 +2,7 @@
 Get latest gsoc timeline with one command.
 
 ```
-npm install -g gsoc-timeline
+npm install -g gsoc-timelines
 ```
 
 ## Command
