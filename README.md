@@ -11,4 +11,4 @@ timeline
 ```
 
 
-![demo](https://github.com/Marvin9/gsoc-timeline/blob/master/demo.png)
+![demo](https://raw.githubusercontent.com/Marvin9/gsoc-timeline/master/demo.png)

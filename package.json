@@ -1,6 +1,6 @@
 {
   "name": "gsoc-timeline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get latest timeline of Google summer of code in your cli with beauty",
   "main": "index.js",
   "scripts": {
