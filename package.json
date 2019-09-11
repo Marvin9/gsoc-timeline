@@ -1,0 +1,23 @@
+{
+  "name": "gsoc-timeline",
+  "version": "1.0.0",
+  "description": "Get latest timeline of Google summer of code in your cli with beauty",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "timeline": "./index.js"
+  },
+  "keywords": [
+    "gsoc",
+    "google summer of code",
+    "gsoc timeline"
+  ],
+  "author": "mayursiinh",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "nightmare": "^3.0.2"
+  }
+}
