@@ -19,5 +19,6 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "nightmare": "^3.0.2"
-  }
+  },
+  "repository": "Marvin9/gsoc-timeline"
 }
